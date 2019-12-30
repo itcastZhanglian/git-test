@@ -7,4 +7,9 @@ public class FirstClass {
         System.out.println("hello git project ! args = " + args.toString());
 //        System.out.println("hello git project ! args = " + new ArrayList(args));
     }
+
+    public void test() {
+        int i=0;
+        i+=10;
+    }
 }
